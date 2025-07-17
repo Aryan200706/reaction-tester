@@ -41,8 +41,8 @@ box.onclick = function () {
   appearAfterDelay();
 };
 
-// Start button click
-startButton.onclick = function () {
-  startButton.style.display = "none"; // hide start button
-  appearAfterDelay(); // start game
-};
+// // Start button click
+// startButton.onclick = function () {
+//   startButton.style.display = "none"; // hide start button
+//   appearAfterDelay(); // start game
+// };
